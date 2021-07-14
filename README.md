@@ -2,6 +2,8 @@ This is the code for the Infini-pan (tm). A continuous rotation pan/tilt system 
 
 Infini-pan (tm) uses a stepper motor to allow continuous rotation. This code translates an SBUS signal from iNav into steps for the stepper driver. It translates a stick position on your transmitter into a rate of rotation of the motor.
 
+You will need to install the "Bolder Flight Systems SBUS" Arduino library.
+
 # iNav 3.0+ required.
 
 # Disclaimers
